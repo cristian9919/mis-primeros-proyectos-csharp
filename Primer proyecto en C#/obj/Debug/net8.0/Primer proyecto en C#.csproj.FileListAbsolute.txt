@@ -1,0 +1,15 @@
+C:\Users\alexj\mis-primeros-proyectos-csharp\Primer proyecto en C#\bin\Debug\net8.0\Primer proyecto en C#.exe
+C:\Users\alexj\mis-primeros-proyectos-csharp\Primer proyecto en C#\bin\Debug\net8.0\Primer proyecto en C#.deps.json
+C:\Users\alexj\mis-primeros-proyectos-csharp\Primer proyecto en C#\bin\Debug\net8.0\Primer proyecto en C#.runtimeconfig.json
+C:\Users\alexj\mis-primeros-proyectos-csharp\Primer proyecto en C#\bin\Debug\net8.0\Primer proyecto en C#.dll
+C:\Users\alexj\mis-primeros-proyectos-csharp\Primer proyecto en C#\bin\Debug\net8.0\Primer proyecto en C#.pdb
+C:\Users\alexj\mis-primeros-proyectos-csharp\Primer proyecto en C#\obj\Debug\net8.0\Primer proyecto en C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexj\mis-primeros-proyectos-csharp\Primer proyecto en C#\obj\Debug\net8.0\Primer proyecto en C#.AssemblyInfoInputs.cache
+C:\Users\alexj\mis-primeros-proyectos-csharp\Primer proyecto en C#\obj\Debug\net8.0\Primer proyecto en C#.AssemblyInfo.cs
+C:\Users\alexj\mis-primeros-proyectos-csharp\Primer proyecto en C#\obj\Debug\net8.0\Primer proyecto en C#.csproj.CoreCompileInputs.cache
+C:\Users\alexj\mis-primeros-proyectos-csharp\Primer proyecto en C#\obj\Debug\net8.0\Primer proyecto en C#.sourcelink.json
+C:\Users\alexj\mis-primeros-proyectos-csharp\Primer proyecto en C#\obj\Debug\net8.0\Primer proyecto en C#.dll
+C:\Users\alexj\mis-primeros-proyectos-csharp\Primer proyecto en C#\obj\Debug\net8.0\refint\Primer proyecto en C#.dll
+C:\Users\alexj\mis-primeros-proyectos-csharp\Primer proyecto en C#\obj\Debug\net8.0\Primer proyecto en C#.pdb
+C:\Users\alexj\mis-primeros-proyectos-csharp\Primer proyecto en C#\obj\Debug\net8.0\Primer proyecto en C#.genruntimeconfig.cache
+C:\Users\alexj\mis-primeros-proyectos-csharp\Primer proyecto en C#\obj\Debug\net8.0\ref\Primer proyecto en C#.dll
